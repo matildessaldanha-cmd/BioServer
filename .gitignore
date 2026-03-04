@@ -1,0 +1,13 @@
+# MATLAB ficheiros temporários
+*.asv
+*.slxc
+*.mex*
+*.log
+slprj/
+DerivedData/
+*.mat
+!/data/*.mat
+
+# Ficheiros de sistema
+.DS_Store
+Thumbs.db
