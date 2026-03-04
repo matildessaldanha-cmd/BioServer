@@ -12,7 +12,7 @@ By leveraging 3-element Windkessel lumped parameter models, the system translate
 
 ## Clinical Innovation
 
-The framework enables the quantification of arterial stiffness and the simulation of specific pathologies—such as **Hypertension**, **Arteriosclerosis**, and **Aortic Stenosis**—in a risk-free virtual environment. This predictive approach supports clinical decision-making by identifying vascular phenotypes that typically require invasive assessment.
+The framework enables the quantification of arterial stiffness and the simulation of specific pathologies, such as **Hypertension**, **Arteriosclerosis**, and **Aortic Stenosis**, in a risk-free virtual environment. This predictive approach supports clinical decision-making by identifying vascular phenotypes that typically require invasive assessment.
 
 ## Technical Implementation
 
